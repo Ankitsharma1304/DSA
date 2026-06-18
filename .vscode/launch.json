@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sixth",
+            "request": "launch",
+            "mainClass": "Pattern.sixth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "fith",
+            "request": "launch",
+            "mainClass": "Pattern.fith",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "forth",
+            "request": "launch",
+            "mainClass": "Pattern.forth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "third",
+            "request": "launch",
+            "mainClass": "Pattern.third",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "second",
+            "request": "launch",
+            "mainClass": "Pattern.second",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "Pattern.first",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
             "name": "Question1",
             "request": "launch",
             "mainClass": "LinearSearch.Question1",
