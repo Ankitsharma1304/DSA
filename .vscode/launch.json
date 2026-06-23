@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.StarPattern",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "thirthenth",
+            "request": "launch",
+            "mainClass": "Pattern.thirthenth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "twelth",
+            "request": "launch",
+            "mainClass": "Pattern.twelth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "eleventh",
+            "request": "launch",
+            "mainClass": "Pattern.eleventh",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "tenth",
+            "request": "launch",
+            "mainClass": "Pattern.tenth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "TenTh",
+            "request": "launch",
+            "mainClass": "Pattern.TenTh",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "ninth",
+            "request": "launch",
+            "mainClass": "Pattern.ninth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "eight",
+            "request": "launch",
+            "mainClass": "Pattern.eight",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "sevth",
+            "request": "launch",
+            "mainClass": "Pattern.sevth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
             "name": "sixth",
             "request": "launch",
             "mainClass": "Pattern.sixth",
