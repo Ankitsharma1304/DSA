@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sixteenth",
+            "request": "launch",
+            "mainClass": "Pattern.Sixteenth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "fifteenth",
+            "request": "launch",
+            "mainClass": "Pattern.fifteenth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "forteenth",
+            "request": "launch",
+            "mainClass": "Pattern.forteenth",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "thirteen",
+            "request": "launch",
+            "mainClass": "Pattern.thirteen",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
             "name": "StarPattern",
             "request": "launch",
             "mainClass": "Pattern.StarPattern",
