@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "Basicmaths.PrimeNumber",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Basicmaths.palindrome",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "PALINDROME",
+            "request": "launch",
+            "mainClass": "Basicmaths.PALINDROME",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "ReverseANumber",
+            "request": "launch",
+            "mainClass": "Basicmaths.ReverseANumber",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigOfNum",
+            "request": "launch",
+            "mainClass": "Basicmaths.SumOfDigOfNum",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "PrintDigitOfNumCount",
+            "request": "launch",
+            "mainClass": "Basicmaths.PrintDigitOfNumCount",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "PrintDigitOfNum",
+            "request": "launch",
+            "mainClass": "Basicmaths.PrintDigitOfNum",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
+            "name": "PrintDigitOfNum",
+            "request": "launch",
+            "mainClass": "PrintDigitOfNum",
+            "projectName": "DSA_d244b859"
+        },
+        {
+            "type": "java",
             "name": "Sixteenth",
             "request": "launch",
             "mainClass": "Pattern.Sixteenth",
