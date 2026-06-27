@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Perfectnum",
             "request": "launch",
             "mainClass": "Basicmaths.Perfectnum",
@@ -13,6 +14,8 @@
         },
         {
             "type": "java",
+=======
+>>>>>>> 4396edddb271e03eb2667d8c1b5965f6c5e0f8a1
             "name": "PrimeNumber",
             "request": "launch",
             "mainClass": "Basicmaths.PrimeNumber",
